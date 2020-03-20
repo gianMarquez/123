@@ -20,19 +20,19 @@ class About extends Component {
                                     <li className="nav-item">
                                         <Link to="/aboutus" className="nav-link"> ABOUT US </Link>
                                     </li>
-                                    <li className="nav-item">
+                                    <li className="nav-item ">
                                         <a href="https://twitter.com/h2mcatalyst" target="_blank" className="nav-item">
-                                            <i class="fa fa-twitter"></i>
+                                            <i class="fa fa-twitter required"></i>
                                         </a>
                                     </li>
                                     <li className="nav-item">
                                         <a href="https://www.linkedin.com/company/h2mcatalyst/about/" target="_blank" className="nav-item">
-                                            <i class="fa fa-linkedin"></i>
+                                            <i class="fa fa-linkedin required"></i>
                                         </a>
                                     </li>
                                     <li className="nav-item">
                                         <a href="https://www.instagram.com/h2mcatalyst/" target="_blank" className="nav-item">
-                                            <i class="fa fa-instagram"></i>
+                                            <i class="fa fa-instagram required"></i>
                                         </a>
                                     </li>
                                     <li className="nav-item">
