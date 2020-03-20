@@ -58,7 +58,7 @@ class Home extends Component {
                     </div>
                 </section>
                 <section>
-                    <div className="row">
+                    <div className="row space-top">
                         <div className="col-md-12">
                             <h2 className="text-center head1"> Transforming Enterprises</h2>
                             <h5 className="head2">
@@ -67,7 +67,7 @@ class Home extends Component {
                                 </span>
                             </h5>
                         </div>
-                        <div className="row mar">
+                        <div className="row mar space-bottom">
                             <div className="col-md-3">
                                 <img src="../assets/images/icon/diamond.png" width="20%" className="icon" alt="diamond"/>
                                 <h5 className="text-center"> Increase Value</h5>
