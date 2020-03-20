@@ -1,0 +1,30 @@
+@media screen and (max-width: 768px) {
+    .bg{
+        padding-top: 0%;
+    }
+    .head{
+        font-size: 2rem;
+    }
+    .para{
+        font-size: 1rem;
+    }
+    .but{
+        width: 30%;
+    }
+    .gvDiv{
+        height: 35vh;
+        padding-left: 5%;
+    }
+    .oueDiv{
+        padding-left: 5%;
+    }
+    .atDiv{
+        padding-left: 5%;
+    }
+    footer{
+        height: 65vh;
+    }
+    .img1, .img2, .img3, .img4, .img5, .img6, .img7, .img8, .img9, .img10, .img11{
+        background-size: contain;
+    }
+}
