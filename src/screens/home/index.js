@@ -63,7 +63,7 @@ class Home extends Component {
                 <section>
                     <div className="row grBg">
                         <div className="container">
-                        <h2>Distrupting Industries</h2>
+                        <h2>Industrial Disruption</h2>
                         <br/>
                             <h5>
                             Business Process Outsourcing (BPO) companies providing lower level services such as call center and customer service can greatly increase enterprise value by creating internal software engineers enabling company to offer higher level of services such as HR, Finance, Development, Logistics and more.

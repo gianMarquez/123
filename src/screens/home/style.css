@@ -185,3 +185,6 @@ footer p{
 h5 {
     letter-spacing: 0.08em;
 }
+.container h5 {
+    color: grey;
+}
