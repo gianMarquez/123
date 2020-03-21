@@ -40,3 +40,12 @@
 .h5 {
     text-align: center !important;
 }
+.nav-link {
+    letter-spacing: 0.1em;
+}
+h4 {
+    letter-spacing: 0.3em;
+}
+.footer p {
+    line-height: 160%
+}
