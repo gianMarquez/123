@@ -48,14 +48,32 @@ class Home extends Component {
                     <div className="row">
                         <div className="col-md-12 bg">
                             <h1 className="text-center head">H2M Catalyst</h1>
+                            <br/>
                             <div className="boxed">
                             <h5 className="para">
-                            H2M Catalyst is a company skillset improvement fund transforming established business process service companies into dynamic, digital enterprises with proprietary integrated automated platforms (IAP)
+                            H2M Catalyst is a company skillset improvement fund transforming established business process service companies into dynamic, digital enterprises with proprietary integrated automated platforms (IAP).
                             </h5>
                             </div>
                             <button className="but">
                                 Learn More
                             </button>
+                        </div>
+                    </div>
+                </section>
+                <section>
+                    <div className="row grBg">
+                        <div className="container">
+                        <h2>Distrupting Industries</h2>
+                        <br/>
+                            <h5>
+                            Business Process Outsourcing (BPO) companies providing lower level services such as call center and customer service can greatly increase enterprise value by creating internal software engineers enabling company to offer higher level of services such as HR, Finance, Development, Logistics and more.
+
+                            </h5>
+                            <br/>
+                            {/* <p className="greyText">
+                                -Satya Nadella, CEO, Microsoft <br /> <br />
+                                2019 Mobile World Congress
+                            </p> */}
                         </div>
                     </div>
                 </section>
@@ -73,27 +91,34 @@ class Home extends Component {
                             <div className="col-md-3">
                                 <img src="../assets/images/icon/diamond.png" width="20%" className="icon" alt="diamond"/>
                                 <h5 className="text-center"> Increase Value</h5>
+                                <br/>
                                 <p className="text-center">
                                     BPO companies providing lower level services can greatly increase enterprise value by creating internal software engineers enabling company to offer higher level of services.
                                 </p>
                             </div>
                             <div className="col-md-3">
                                 <img src="../assets/images/icon/compas.png" width="20%" className="icon" alt="compas" />
+                                <br/>
                                 <h5 className="text-center"> Proven Formula </h5>
+                                <br/>
                                 <p className="text-center">
                                     Two of the largest global BPO companies have proven this premise. 
                                 </p>
                             </div>
                             <div className="col-md-3">
                                 <img src="../assets/images/icon/scale.png" width="20%" className="icon" alt="scale"/>
+                                <br/>
                                 <h5 className="text-center"> Scalability</h5>
+                                <br/>
                                 <p className="text-center">
                                     We can replicate within the fragmented BPO Industry.
                                 </p>
                             </div>
                             <div className="col-md-3">
                                 <img src="../assets/images/icon/ship.png" width="20%" className="icon" alt="ship" />
+                                <br/>
                                 <h5 className="text-center"> Increase Value</h5>
+                                <br/>
                                 <p className="text-center">
                                     Our mission is to acquire targeted BPO companies, increase revenue and profit by enabling staff to offer higher level services, and lower costs by sharing services among the acquired companies.
                                 </p>
@@ -101,70 +126,13 @@ class Home extends Component {
                         </div>
                     </div>
                 </section>
-                <section>
-                    <div className="row grBg">
-                        <div className="container">
-                            <h5>
-                                “Every company is a software company…[computing] is getting embedded in our world… is a core part of every industry. A car is now a computer. Software skills are a valuable resource… in ten years we… won’t have the tech industry and other industries,”
-                            </h5>
-                            <br/>
-                            <p className="greyText">
-                                -Satya Nadella, CEO, Microsoft <br /> <br />
-                                2019 Mobile World Congress
-                            </p>
-                        </div>
-                    </div>
-                </section>
+               
                 <section>
                     <div className="row">
                         <div className="col-md-12 bg1"> </div>
                     </div>
                 </section>
-                <section>
-                    <div className="row">
-                        <div className="col-md-6 con">
-                            <h3 className="black-text">ABOUT US</h3>
-                            <p>
-                            “The biggest problem with enterprise operations today is the simple fact that most firms still run most of their processes exactly the same way as they did 20/30/40 years ago, with the only “innovation” being models like offshore outsourcing and shared service centers, cloud and digital technologies enabling those same processes to be conducted steadily faster and cheaper.  However, fundamental changes have not been made to intrinsic business processes – most companies still operate with their major functions such as customer service, marketing, finance, HR and supply chain operating in individual silos, with IT operating as a non-strategic vehicle to maintain the status quo and keep the lights on.”
-                            </p>
-                            <span className="blue-text">
-                                –Phil Fersht, CEO and Chief Analyst, Horses for Sources
-                            </span>
-                        </div>
-                        <div className="col-md-6 row">
-                            <div className="col-md-3">
-                                <img src="../assets/images/icon.png" className="icon1"/>
-                            </div>
-                            <div className="col-md-9">
-                                <div className="atDiv">
-                                    <h4 className="blue-text">
-                                        ACQUIRE TRACTION
-                                    </h4>
-                                    <p>
-                                        The seed landscape has changed dramatically over the past several years. Companies are being created and raising small amounts of capital to de-risk and validate, or disprove, many of their original assumptions.
-                                    </p>
-                                </div>
-                                <div className="oueDiv">
-                                    <h4 className="blue-text">
-                                        OPTIMIZE UNIT ECONOMICS
-                                    </h4>
-                                    <p>
-                                    We have an upgraded strategy of not just “getting in the good deals,” but rather participating with larger investments and solid follow-ons.
-                                    </p>
-                                </div>
-                                <div className="gvDiv">
-                                    <h4 className="blue-text">
-                                        GAIN VELOCITY
-                                    </h4>
-                                    <p>
-                                    We don’t think experience or data alone are basis enough for a decision. We work very closely with the management teams to provide as much value as possible. We combine years of operational experience with extensive data analysis to evaluate the best options, and then act upon them.
-                                    </p>
-                                </div>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </section>
+               
                 <footer>
                     <div className="row">
                         <div className="col-md-4">
@@ -173,7 +141,7 @@ class Home extends Component {
                         <div className="col-md-4">
                             <h4>CONTACT</h4>
                             <p>
-                                <strong>H2M Capital</strong>
+                                <strong>H2M Catalyst</strong>
                                 <br />
                                 7659 S. Main Street
                                 <br />
