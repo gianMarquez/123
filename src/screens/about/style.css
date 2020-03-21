@@ -4,6 +4,7 @@
 .navbar-nav{
     width: 80%;
     padding-left: 35%;
+    margin-left: 25%;
 }
 .nav-item{
     margin-right: 10%;
@@ -15,4 +16,27 @@
 .aboutImg{
     width: 95%;
     margin-left: 4%;
+}
+
+.left-pad{
+    padding: 0px, 90px;
+}
+.img{
+    margin-left: 35%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    
+}
+.image-overlay {
+    opacity: 0.5;
+    background-color: #000000;
+}
+.boxed{
+    text-align: center;
+}
+.para {
+    text-align: center;
+}
+.h5 {
+    text-align: center !important;
 }

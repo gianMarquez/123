@@ -22,6 +22,8 @@
     background-attachment: fixed;
     height: 80vh;
     padding-top: 15%;
+    opacity: 0.9;
+    background-color: #000000;
 }
 .head{
     color: white;
@@ -35,10 +37,11 @@
     font-size: 24px;
     line-height: 28px;
     font-weight: 300;
-    color: white;
+    color: #FFFFFF;
     width: 80%;
     text-align: center;
     padding-left: 25%;
+    margin: 0px 0px 7px;
 }
 .but{
     background-color: #25bdce !important;
@@ -47,7 +50,7 @@
     padding: 8px;
     color: white;
     margin-left: 45%;
-    margin-top: 5%;
+    margin-top: 1%;
     border-color: #25bdce !important;
 }
 .head1{
@@ -93,6 +96,7 @@ h5{
     background-size: cover;
     background-attachment: fixed;
     height: 60vh;
+    opacity: 0.87;
 }
 h3{
     font-family: Montserrat;
@@ -168,4 +172,7 @@ footer p{
 }
 .space-top{
     margin-top: 100px;
+}
+.padding{
+    margin-left: 100px;
 }

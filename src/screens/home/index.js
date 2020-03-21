@@ -48,9 +48,11 @@ class Home extends Component {
                     <div className="row">
                         <div className="col-md-12 bg">
                             <h1 className="text-center head">H2M Catalyst</h1>
-                            <p className="para">
+                            <div className="boxed">
+                            <h5 className="para">
                             H2M Catalyst is a company skillset improvement fund transforming established business process service companies into dynamic, digital enterprises with proprietary integrated automated platforms (IAP)
-                            </p>
+                            </h5>
+                            </div>
                             <button className="but">
                                 Learn More
                             </button>

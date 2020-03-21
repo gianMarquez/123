@@ -7,7 +7,7 @@ class About extends Component {
         return(
             <>
                 <section>
-                    <nav className="navbar navbar-expand-lg navbar-light bg-light">
+                    <nav className="navbar navbar-expand-lg navbar-light bg-light ">
                             <Link to="/" className="navbar-brand">
                                 <img src="../assets/images/logo.png" alt="logo" className="img"/>
                             </Link>
@@ -16,7 +16,7 @@ class About extends Component {
                             </button>
 
                             <div className="collapse navbar-collapse" id="navbarSupportedContent">
-                                <ul className="navbar-nav mr-auto">
+                                <ul className="navbar-nav mr-auto padding">
                                     <li className="nav-item">
                                         <Link to="/aboutus" className="nav-link"> ABOUT US </Link>
                                     </li>
