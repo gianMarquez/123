@@ -51,7 +51,8 @@ class Home extends Component {
                             <br/>
                             <div className="boxed">
                             <h5 className="para">
-                            H2M Catalyst is a company skillset improvement fund transforming established business process service companies into dynamic, digital enterprises with proprietary integrated automated platforms (IAP).
+                                H2M catalyst is an especial propose fund  by a special form by H2M capital
+                                H2M Catalyst is a company skillset improvement fund transforming established business process service companies into dynamic, digital enterprises with proprietary integrated automated platforms (IAP)
                             </h5>
                             </div>
                             <button className="but">

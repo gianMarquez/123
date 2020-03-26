@@ -4,9 +4,11 @@
 .navbar-nav{
     width: 80%;
     padding-left: 35%;
+
 }
 .nav-item{
     margin-right: 10%;
+
 }
 .fa{
     padding-top: 10px;
@@ -14,6 +16,11 @@
 }
 .row{
     width: 100%;
+    margin: 0px;
+}
+
+.row >  .col-md-12 {
+    padding-top: 7vh;
 }
 .bg{
     background-image: url('https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3300&q=80');
@@ -53,8 +60,11 @@
     color: white;
     margin-left: 45%;
     margin-top: 1%;
-    border-color: #25bdce !important;
+    border-color: transparent !important;
     letter-spacing: 0.17em;
+    opacity: 90%;
+    cursor: pointer;
+
 }
 .head1{
     font-family: Montserrat;
@@ -90,7 +100,10 @@ h5{
 }
 .grBg{
     background-color: #F2F2F2;
-    padding: 10%;
+    padding: 7% 10% 5% 10%;
+}
+.grBg > .container h2{
+    margin-left: 5.7vw;
 }
 .greyText{
     color: #676767;
@@ -178,7 +191,7 @@ footer p{
     margin-bottom: 200px;
 }
 .space-top{
-    margin-top: 100px;
+    margin-top: 0px;
 }
 .padding{
     margin-left: 100px;

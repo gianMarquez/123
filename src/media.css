@@ -10,7 +10,37 @@
         
     }
     .but{
-        width: 30%;
+        width: 166px;
+        margin-left: 30%;
+        margin-top: 8%;
+    }
+    h2{
+        font-size: 1.5rem;
+    }
+    .container h5{
+        font-size: 1.2rem;
+        line-height: 27px;
+    }
+
+    .col-md-12 h2{
+        font-size: 2rem;
+        line-height: 35px;
+    }
+
+    .row > .col-md-12.bg1{
+        background-image: none;
+        overflow: hidden;
+        height: 0px;
+    }
+    .spTxt {
+        margin-top: 50px 0px;
+        position: relative;
+    }
+    .col-md-3{
+        margin-top: 50px;
+    }
+    .space-top{
+        height: 200vh;
     }
     .gvDiv{
         height: 35vh;
@@ -30,5 +60,14 @@
     }
     .img1, .img2, .img3, .img4, .img5, .img6, .img7, .img8, .img9, .img10, .img11{
         background-size: contain;
+    }
+    .row > .col-md-4 .img{
+        margin-left: 23%;
+    }
+    .row > .col-md-4 h4{
+        padding-left: 30%;
+    }
+    .row > .col-md-4 p{
+        padding-left: 30%;
     }
 }
